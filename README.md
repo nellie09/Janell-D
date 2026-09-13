@@ -39,9 +39,7 @@ Hands-on cybersecurity training focused on developing practical skills in:
 - Vulnerability Assessment
 - Incident Response
 
-🔗 [View My TryHackMe Profile](https://tryhackme.com/p/jbrooklyn09)
-
-
+🔗 🔗 [View My TryHackMe Profile](https://tryhackme.com/p/jbrooklyn09)
 ## Professional Experience
 
 ### IT / Technology Support
@@ -65,3 +63,4 @@ University of Phoenix,Associate in science in Cybersecurity
 
 🔗 LinkedIn:https://www.linkedin.com/in/janell-duke-b8a37780
 📧 Email :jbrooklyn09@gmail.com
+
