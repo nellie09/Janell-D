@@ -24,6 +24,24 @@ Networking, and Instructional Technology.
 - User Support
 - Instructional Technology
 
+## Cybersecurity Training
+
+### TryHackMe
+
+Hands-on cybersecurity training focused on developing practical skills in:
+
+- Networking Fundamentals
+- Linux
+- Windows
+- Cybersecurity Fundamentals
+- Security Operations
+- Enumeration
+- Vulnerability Assessment
+- Incident Response
+
+🔗 [View My TryHackMe Profile](https://tryhackme.com/p/jbrooklyn09)
+
+
 ## Professional Experience
 
 ### IT / Technology Support
